@@ -9,8 +9,8 @@ Original file is located at
 
 """
 Nobel Prize Winners Data Analysis Script
-Author: [Your Name]
-Date: [Current Date]
+Author: ODHAIB
+Date: 22/1/2024
 """
 
 import pandas as pd
