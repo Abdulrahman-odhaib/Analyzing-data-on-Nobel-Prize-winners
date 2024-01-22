@@ -7,7 +7,7 @@ recipient also receives a gold medal bearing the image of Alfred Nobel (1833 - 1
 award. The Nobel Foundation has made available a dataset of all laureates from the awards' inception, 1901
 to 2023.**
 
-This repository contains a Python script for analyzing Nobel Prize winners' data. The script uses pandas and matplotlib for data analysis and visualization.
+Note: This repository contains a Python script for analyzing Nobel Prize winners' data. The script uses pandas and matplotlib for data analysis and visualization.
 -------------------------------------------------------------------------------------------------------
 **"We will analyze the History of Nobel Prize Winners, and answer some questions"**
 
