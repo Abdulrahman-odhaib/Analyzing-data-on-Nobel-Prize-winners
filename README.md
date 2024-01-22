@@ -9,7 +9,7 @@ to 2023.**
 
 This repository contains a Python script for analyzing Nobel Prize winners' data. The script uses pandas and matplotlib for data analysis and visualization.
 
-<big>**"We will analyze the History of Nobel Prize Winners, and answer some questions"**</big>
+<big>"We will analyze the History of Nobel Prize Winners, and answer some questions"</big>
 
 *1. What is the most awarded gender and birth_country? Save your answers as top_gender and 
 top_country.*
