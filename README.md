@@ -11,10 +11,12 @@ This repository contains a Python script for analyzing Nobel Prize winners' data
    git clone https://github.com/yourusername/nobel-prize-analysis.git
    cd nobel-prize-analysis
    
-Install dependencies:
+2. Install dependencies:
+```bash
 pip install -r requirements.txt
 
-Run the analysis script:
+3. Run the analysis script:
+```bash
 python analyze_nobel_data.py
 
 
